@@ -1,2 +1,6 @@
-string $name = "mohan";
-print $name;
+
+global proc myNew() 
+{
+  polySphere -name hehehe;
+}
+

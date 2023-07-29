@@ -1,4 +1,3 @@
 import maya.cmds as mc
-
-name = 'mohan'
-print (name)
+def locator():
+ loc = mc.spaceLocator(name='mohan')
